@@ -12,5 +12,9 @@
   "packageManager": "pnpm@10.8.0",
   "devDependencies": {
     "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@types/websocket": "^1.0.10",
+    "websocket": "^1.0.35"
   }
 }
